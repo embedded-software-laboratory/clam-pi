@@ -5,7 +5,6 @@
 #include "intervals.hh"
 #include "oct.hh"
 #include "pk.hh"
-#include "pk_pplite.hh"
 #include "ric.hh"
 #include "split_dbm.hh"
 #include "split_oct.hh"
@@ -14,3 +13,4 @@
 #include "terms_intervals.hh"
 #include "terms_zones.hh"
 #include "wrapped_intervals.hh"
+#include "vt.hh"
